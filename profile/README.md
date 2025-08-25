@@ -1,0 +1,2 @@
+## Welcome to LLMonade
+LLMonade is an open-source AI evaluation tool that helps small development teams systematically improve their LLM-integrated applications through guided, manual error analysis. The streamlined interface pulls real trace data, allows for quick annotation of outputs, automatically categorizes failure patterns, and identifies the highest ROI fixes. LLMonade’s step-by-step approach empowers teams new to AI evaluation to adopt the proven best practice of manual error analysis.
