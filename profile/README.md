@@ -15,6 +15,9 @@ For more information, please visit our [case study](https://capstone2505-team-5.
 
 ## ☀️ Why Error Analysis Matters
 Error analysis is one of the most frequently skipped or superficially performed steps in the AI development lifecycle, especially by teams that are new to building with LLMs. LLMonade provides a focused approach to manual error analysis that identifies the highest-ROI issues.
+<div align="center">
+<img width="811" height="456" alt="llmonade_process" src="https://github.com/user-attachments/assets/acd4ab89-9505-4a3b-9888-6960cde5aa17" />
+</div>
 
 ## 🍃 Key Features
 - **Root Spans Extract, Transform, Load Pipeline:** LLMonade integrates seamlessly with the AI observability tool Phoenix.
@@ -34,14 +37,11 @@ LLMonade is built by a passionate team of engineers dedicated to empowering deve
 [Noah Raynor](https://github.com/noahraynor) | Software Engineer | San Luis Obispo, CA  
 
 
-## 🌳 LLMonades’s Architecture and Technologies
+## 🌳 LLMonade’s Architecture
 
-- insert graphic and highlight key points
-
-*LLMonade: Evaluate and Improve Your LLM-powered Applications.*
+<img width="1920" height="731" alt="_full-arch-detail-edit" src="https://github.com/user-attachments/assets/32ae5dc0-9b3f-4ffe-b483-ea4cb821734d" />
 
 ---
-
 <div align="center">
   🍋 🌳 ✅ 🍋 
 </div>
