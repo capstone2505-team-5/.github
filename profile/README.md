@@ -1,2 +1,47 @@
+<img width="1108" height="576" alt="LLMonade_tagline" src="https://github.com/user-attachments/assets/06c8f3dd-1f4b-46bb-ad21-d57273b83f55" />
+
 ## Welcome to LLMonade
+
 LLMonade is an open-source AI evaluation tool that helps small development teams systematically improve their LLM-integrated applications through guided, manual error analysis. The streamlined interface pulls real trace data, allows for quick annotation of outputs, automatically categorizes failure patterns, and identifies the highest ROI fixes. LLMonade’s step-by-step approach empowers teams new to AI evaluation to adopt the proven best practice of manual error analysis.
+
+## 🍋 What is LLMonade?
+LLMonade is an evaluation tool that provdes:
+- a guided error analysis workflow
+- a frictionless annotation interface
+- automated trace ingestion with an existing observability tool
+- automated deployment to AWS
+
+For more information, please visit our [case study](https://capstone2505-team-5.github.io/case-study/).
+
+## ☀️ Why Error Analysis Matters
+Error analysis is one of the most frequently skipped or superficially performed steps in the AI development lifecycle, especially by teams that are new to building with LLMs. LLMonade provides a focused approach to manual error analysis that identifies the highest-ROI issues.
+
+## 🍃 Key Features
+- **Root Spans Extract, Transform, Load Pipeline:** LLMonade integrates seamlessly with the AI observability tool Phoenix.
+- **Automated ETL:** Once deployed, the ETL pipeline automatically ingests existing traces from Phoenix and any new traces that get generated.
+- **Effective Human Review Interface:** Purpose-built interface that removes all friction from data inspection: keyboard shortcuts keep the review process moving quickly, llm-structured input/output allows for an easy-on-the-eye data viewing experience, unified data viewer displays all information needed to evaluate an output without needed to switch between windows.
+
+## 🪴 Getting Started
+
+To get starting using LLMonade, visit our CLI deployer's [installation guide](https://github.com/capstone2505-team-5/CLI?tab=readme-ov-file#llmonade-cli-deployer).
+
+## 👨‍🌾 Meet the Team
+LLMonade is built by a passionate team of engineers dedicated to empowering development teams to make targeted improvements with confidence.
+
+[Alex Harnett](https://github.com/AlexHarnett1) | Software Engineer | Orinda, CA  
+[Josh Cutts](https://github.com/joshcutts) | Software Engineer | Portland, OR  
+[Justin Shaber](https://github.com/justinshaber) | Software Engineer | San Francisco, CA  
+[Noah Raynor](https://github.com/noahraynor) | Software Engineer | San Luis Obispo, CA  
+
+
+## 🌳 LLMonades’s Architecture and Technologies
+
+- insert graphic and highlight key points
+
+*LLMonade: Evaluate and Improve Your LLM-powered Applications.*
+
+---
+
+<div align="center">
+  🍋 🌳 ✅ 🍋 
+</div>
