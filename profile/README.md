@@ -31,7 +31,7 @@ To get starting using LLMonade, visit our CLI deployer's [installation guide](ht
 ## 👨‍🌾 Meet the Team
 LLMonade is built by a passionate team of engineers dedicated to empowering development teams to make targeted improvements with confidence.
 
-[Alex Harnett](https://github.com/AlexHarnett1) | Software Engineer | Orinda, CA  
+[Alex Harnett](https://github.com/AlexHarnett1) | Software Engineer | San Francisco, CA  
 [Josh Cutts](https://github.com/joshcutts) | Software Engineer | Portland, OR  
 [Justin Shaber](https://github.com/justinshaber) | Software Engineer | San Francisco, CA  
 [Noah Raynor](https://github.com/noahraynor) | Software Engineer | San Luis Obispo, CA  
