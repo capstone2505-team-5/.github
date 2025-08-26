@@ -11,7 +11,7 @@ LLMonade is an evaluation tool that provdes:
 - automated trace ingestion with an existing observability tool
 - automated deployment to AWS
 
-For more information, please visit our [case study](https://capstone2505-team-5.github.io/case-study/).
+For more information, please visit our [case study](https://llmonade.github.io/case-study/).
 
 ## ☀️ Why Error Analysis Matters
 Error analysis is one of the most frequently skipped or superficially performed steps in the AI development lifecycle, especially by teams that are new to building with LLMs. LLMonade provides a focused approach to manual error analysis that identifies the highest-ROI issues.
